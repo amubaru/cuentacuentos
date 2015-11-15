@@ -1,0 +1,69 @@
+/*HEADER*/
+
+
+.backh{
+	background-image:url(../img/boke.jpg);
+	background-size:cover;
+	height:800px;
+	background-repeat:no-repeat;}
+
+.nin{
+	position:relative;
+	bottom:60px}
+
+.padcuen{
+	background-color:#FFAD33;
+	padding:30px;
+	width:500px;
+	margin:90px;
+	border-radius:2%;
+	overflow:hidden;
+	color:white}
+
+/*MENU*/
+.todo{padding:0px !important}
+
+.icon{
+	font-size:40px;
+	margin:30px;}
+
+.logomenu{
+	height:60px}
+
+.menu li{
+	display:inline-block;
+	padding:15px}
+
+.menu ul{
+	background-color:#BADFE8;
+	list-style:none;
+	position:fixed;
+	width:100%;
+	z-index:999}	
+
+.menu a{
+	margin:20px;
+	color:#FFFFED;
+	text-decoration:none;}
+
+.acsus{
+	float:right;
+}	
+/*FOOTER*/
+
+.backf{
+	background-color:#BADFE8;
+	height:150px;
+	overflow:hidden;}
+
+.backf ul{
+	color:#FDF5ED;
+	padding:30px;
+	list-style-type:none;}
+
+.pajarito{
+	height:200px;
+	position:relative;
+	bottom:40px}
+
+.btn-social-icon{margin:10px}
